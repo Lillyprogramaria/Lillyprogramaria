@@ -1,6 +1,6 @@
-- 👋 Olá, Eu sou a  @Lillyprogramaria
+- 👋 Olá, Eu sou a  @Lilly_space
 - 👀 Eu estou interessada em Técnologia.
-- 🌱 Atualmente estou aprendendo Programação na PrograMaria..
+- 🌱 Atualmente estou aprendendo Programação
 - 😄 Pronomes: Ela/Dela
 - ⚡ Fato engraçado: Sou apaixonada por Doramas(Novelas da Coreia do Sul), Ler livros e jogar futebol.
 
